@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on strandedinspace</title>
-    <link>https://tonyingrisano.github.io/strandedinspace/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on strandedinspace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2020 12:14:02 -0400</lastBuildDate><atom:link href="https://tonyingrisano.github.io/strandedinspace/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 May 2020 08:00:00 -0400</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>blog</title>
-      <link>https://tonyingrisano.github.io/strandedinspace/tags/blog/</link>
-      <pubDate>Tue, 05 May 2020 12:14:02 -0400</pubDate>
+      <title>Mission Control</title>
+      <link>/tags/mission-control/</link>
+      <pubDate>Mon, 18 May 2020 08:00:00 -0400</pubDate>
       
-      <guid>https://tonyingrisano.github.io/strandedinspace/tags/blog/</guid>
+      <guid>/tags/mission-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Misson Control</title>
+      <link>/tags/misson-control/</link>
+      <pubDate>Sun, 26 Apr 2020 08:00:00 -0400</pubDate>
+      
+      <guid>/tags/misson-control/</guid>
       <description></description>
     </item>
     

@@ -2,41 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tonyingrisano.github.io/strandedinspace/tags/blog/</loc>
-    <lastmod>2020-05-05T12:14:02-04:00</lastmod>
+    <loc>/tags/mission-control/</loc>
+    <lastmod>2020-05-18T08:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tonyingrisano.github.io/strandedinspace/mission-control/</loc>
-    <lastmod>2020-05-05T12:14:02-04:00</lastmod>
+    <loc>/mission-control/</loc>
+    <lastmod>2020-05-18T08:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tonyingrisano.github.io/strandedinspace/mission-control/on-aliens/</loc>
-    <lastmod>2020-05-05T12:14:02-04:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-05-18T08:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tonyingrisano.github.io/strandedinspace/</loc>
-    <lastmod>2020-05-05T12:14:02-04:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2020-05-18T08:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tonyingrisano.github.io/strandedinspace/tags/</loc>
-    <lastmod>2020-05-05T12:14:02-04:00</lastmod>
+    <loc>/mission-control/this-one-wont-fit-shes-too-flamboyant/</loc>
+    <lastmod>2020-05-18T08:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tonyingrisano.github.io/strandedinspace/mission-control/flowers-in-space/</loc>
-    <lastmod>2020-05-01T12:14:02-04:00</lastmod>
+    <loc>/mission-control/on-aliens/</loc>
+    <lastmod>2020-05-08T08:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tonyingrisano.github.io/strandedinspace/categories/</loc>
+    <loc>/mission-control/space-travel-is-treacherous/</loc>
+    <lastmod>2020-05-05T08:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tonyingrisano.github.io/strandedinspace/mission-control/space-travel-is-treacherous/</loc>
+    <loc>/mission-control/flowers-in-space/</loc>
+    <lastmod>2020-05-01T08:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/mission-control/production/</loc>
+    <lastmod>2020-04-29T08:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/tags/misson-control/</loc>
+    <lastmod>2020-04-26T08:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/mission-control/inside-mission-control/</loc>
+    <lastmod>2020-04-26T08:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
