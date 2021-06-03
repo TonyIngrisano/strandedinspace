@@ -2,26 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://strandedinspace.info/tags/blog/</loc>
+    <loc>https://tonyingrisano.github.io/strandedinspace/tags/blog/</loc>
     <lastmod>2020-05-05T12:14:02-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://strandedinspace.info/mission-control/</loc>
+    <loc>https://tonyingrisano.github.io/strandedinspace/mission-control/</loc>
     <lastmod>2020-05-05T12:14:02-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://strandedinspace.info/mission-control/on-aliens/</loc>
+    <loc>https://tonyingrisano.github.io/strandedinspace/mission-control/on-aliens/</loc>
     <lastmod>2020-05-05T12:14:02-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://strandedinspace.info/</loc>
+    <loc>https://tonyingrisano.github.io/strandedinspace/</loc>
     <lastmod>2020-05-05T12:14:02-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://strandedinspace.info/tags/</loc>
+    <loc>https://tonyingrisano.github.io/strandedinspace/tags/</loc>
     <lastmod>2020-05-05T12:14:02-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://strandedinspace.info/mission-control/flowers-in-space/</loc>
+    <loc>https://tonyingrisano.github.io/strandedinspace/mission-control/flowers-in-space/</loc>
     <lastmod>2020-05-01T12:14:02-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://strandedinspace.info/categories/</loc>
+    <loc>https://tonyingrisano.github.io/strandedinspace/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>http://strandedinspace.info/mission-control/space-travel-is-treacherous/</loc>
+    <loc>https://tonyingrisano.github.io/strandedinspace/mission-control/space-travel-is-treacherous/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

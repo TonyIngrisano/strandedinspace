@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on strandedinspace</title>
-    <link>http://strandedinspace.info/tags/</link>
+    <link>https://tonyingrisano.github.io/strandedinspace/tags/</link>
     <description>Recent content in Tags on strandedinspace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2020 12:14:02 -0400</lastBuildDate><atom:link href="http://strandedinspace.info/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 May 2020 12:14:02 -0400</lastBuildDate><atom:link href="https://tonyingrisano.github.io/strandedinspace/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>http://strandedinspace.info/tags/blog/</link>
+      <link>https://tonyingrisano.github.io/strandedinspace/tags/blog/</link>
       <pubDate>Tue, 05 May 2020 12:14:02 -0400</pubDate>
       
-      <guid>http://strandedinspace.info/tags/blog/</guid>
+      <guid>https://tonyingrisano.github.io/strandedinspace/tags/blog/</guid>
       <description></description>
     </item>
     
